@@ -1,3 +1,5 @@
+//Yasmine Oliveira Belmiro 04/03/2024
+
 package calculadora.util;
 
 public class NumberConverter {

@@ -1,3 +1,5 @@
+//Yasmine Oliveira Belmiro 06/03/2024
+
 package calculadora.exceptions;
 
 import java.sql.Date;
